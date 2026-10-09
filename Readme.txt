@@ -2,7 +2,7 @@
 
 LedWell is a live video mixer for screens, projectors and ledwalls. Play and mix videos, images, cameras, capture devices, app windows, text and countdowns, and add real-time effects in time with the music.
 
-![LedWell](docs/main.webp)
+![LedWell](docs/og.jpg)
 
 ## Features
 
